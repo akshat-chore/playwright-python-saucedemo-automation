@@ -99,5 +99,6 @@ pytest -v --headed
 ## 👤 Author
 
 **Akshat**
-QA / SDET Engineer
+QA / SDET Engineer Intern
+[GitHub](https://github.com/akshat-chore) · [LinkedIn](https://linkedin.com/in/akshat-chore)
 
